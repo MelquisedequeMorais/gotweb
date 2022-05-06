@@ -1,6 +1,6 @@
 package gotweb;
 
-public class PopulaçãoModel extends BaseModel {
+public class Populacao extends BaseModel {
 	int bonusSoteCasa;
 	int valor;  
 }
